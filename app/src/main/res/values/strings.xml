@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Lemonade</string>
+    <string name="limon1">Toca el limonero para cortar un limon.</string>
+    <string name="limon2">Sigue tocando el limón para exprimirlo.</string>
+    <string name="limon3">Toca la limonada para beberla.</string>
+    <string name="limon4">Toca el vaso vacío para empezar de nuevo.</string>
+
+    <string name="lemon_tree_content_description">Árbol de limonero</string>
+    <string name="lemon_content_description">Limón listo para exprimir</string>
+    <string name="lemon_drink_content_description">Vaso de limonada</string>
+    <string name="lemon_restart_content_description">Vaso vacío listo para reiniciar</string>
+
+    <dimen name="button_corner_radius">40dp</dimen>
+    <dimen name="button_interior_padding">24dp</dimen>
+    <dimen name="padding_vertical">32dp</dimen>
+    <dimen name="button_image_width">128dp</dimen>
+    <dimen name="button_image_height">160dp</dimen>
+
+
+</resources>
+
